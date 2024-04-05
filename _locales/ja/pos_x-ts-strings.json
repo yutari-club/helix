@@ -1,11 +1,4 @@
 {
     "pos_x.RotateCoordinate|block": "回転対象座標 %targetCoordinates=minecraftCreateWorldInternal| 原点 %origin=minecraftCreateWorldInternal| 軸 %axisOfRevolution| 角度 %angle",
-    "pos_x.RotateCoordinate": "回転の原点、軸、角度を指定して座標を回転させる",
-    "pos_x.targetCoordinates": "回転対象の座標",
-    "pos_x.origin": "回転の中心とするワールド座標",
-    "pos_x.axisOfRevolution": "回転する軸方向",
-    "pos_x.angle": "角度(0~360)",
-    "hoc2023.scene1_LunchTime": "昼食時間中のループ",
-    "hoc2023.scene1_LunchTime|block": "昼食の時間",
     "{id:category}pos_x": "座標変換"
 }

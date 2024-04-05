@@ -9,7 +9,6 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "_locales/ja/strings.json",
         "pos_x.ts",
         "_locales/ja/pos_x-ts-strings.json",
         "_locales/ja/pos_x-ts-jsdoc-strings.json"
