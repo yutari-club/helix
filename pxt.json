@@ -9,6 +9,7 @@
         "main.blocks",
         "main.ts",
         "README.md",
+        "_locales/ja/strings.json",
         "custom.ts"
     ],
     "testFiles": [
