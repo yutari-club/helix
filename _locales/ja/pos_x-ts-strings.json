@@ -6,5 +6,6 @@
     "pos_x.axisOfRevolution": "回転する軸方向",
     "pos_x.angle": "角度(0~360)",
     "hoc2023.scene1_LunchTime": "昼食時間中のループ",
-    "hoc2023.scene1_LunchTime|block": "昼食の時間"
+    "hoc2023.scene1_LunchTime|block": "昼食の時間",
+    "{id:category}pos_x": "座標変換"
 }
