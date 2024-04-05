@@ -4,7 +4,7 @@
     "pos_x.targetCoordinates": "回転対象の座標",
     "pos_x.origin": "回転の中心とするワールド座標",
     "pos_x.axisOfRevolution": "回転する軸方向",
-    "pos_x.angle": "角度(0~360)" ,
+    "pos_x.angle": "角度(0~360)",
     "hoc2023.scene1_LunchTime": "昼食時間中のループ",
     "hoc2023.scene1_LunchTime|block": "昼食の時間"
 }

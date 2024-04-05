@@ -10,7 +10,9 @@
         "main.ts",
         "README.md",
         "_locales/ja/strings.json",
-        "custom.ts"
+        "pos_x.ts",
+        "_locales/ja/pos_x-ts-strings.json",
+        "_locales/ja/pos_x-ts-jsdoc-strings.json"
     ],
     "testFiles": [
         "test.ts"
